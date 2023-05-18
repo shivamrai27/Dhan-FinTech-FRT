@@ -2,7 +2,7 @@
 Host-> https://zealous-ocean-087b33a10.3.azurestaticapps.net  
 Video -> https://youtu.be/kiMKRdFfHe0  
 Project name -> Dhan Financial Services <br>
-Aim-> It is an FinTech based web app to deliver the various financial services and knowledge to make people aware what they can do with ttheir saving 
+Aim-> It is an FinTech based web app to deliver the various financial services and knowledge to make people aware what they can do with ttheir saving <br>
 Azure services i have used 
 1. Static Web App
 2. Web Application firewall policiy 
@@ -18,3 +18,20 @@ web application firewall polcies this is only use to protect ur web app from com
 ![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/f78c3cfc-0d62-438a-ae86-8d3a4370cb9e)
 ![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/59268369-11c8-42f3-94b9-2e23e8e9d405)
 
+## Website Overview 
+### Home
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/f494783f-1413-4902-ad3d-4046ae406a6d)
+### About 
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/8a4a1fbd-841a-4ed2-a2a6-95a780b13a37)
+### Services
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/eb6658c4-dcc5-4565-a224-25244165ada7)
+### Our Projects
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/6bf9aebb-d9d6-4651-a513-007a769b8972)
+### Team
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/e17808d3-6688-4f1c-93c6-c7da3f7085a0)
+### Testimonials 
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/3decc9d7-f0f3-4a9b-a427-beac3f007809)
+### Contact Us
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/e995151e-ae0e-462a-9009-8c99e8545354)
+### Footer
+![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/990f8d42-db28-44ef-88ad-fd0665a2675b)
