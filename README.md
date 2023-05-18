@@ -14,7 +14,7 @@ It is used to host the website <br>
 Link-> https://zealous-ocean-087b33a10.3.azurestaticapps.net
 ![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/cb4b4744-95bb-49df-8b9a-930e0851d99e)
 ### (2) Web Application Firewall  
-web application firewall polcies this is only use to protect ur web app from common exploits and vulnerabilities<br>
+web application firewall polcies this is only use to protect ur web app from common exploits and vulnerabilities and that's the reason to use it because we have to deal with lots of transaction and we have lots of financial data aswell <br>
 ![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/f78c3cfc-0d62-438a-ae86-8d3a4370cb9e)
 ![image](https://github.com/shivamrai27/Dhan-FinTech-FRT/assets/83501750/59268369-11c8-42f3-94b9-2e23e8e9d405)
 
